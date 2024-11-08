@@ -26,3 +26,6 @@ Make sure you have the following installed:
 
 - **Node.js** (>=14.x recommended)
 - **npm** (or **yarn**)
+
+License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software in compliance with the MIT License terms. See the [LICENSE](LICENSE) file for more details.
